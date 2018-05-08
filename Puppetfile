@@ -14,6 +14,6 @@ forge "https://forgeapi.puppetlabs.com"
  mod 'testrepo',
    :git => 'https://github.com/badarmontassar/testrepo.git',
    :branch => 'master'
- mod 'apache",
+ mod 'apache',
    :git => 'https://github.com/badarmontassar/apache.git',
    :branch => 'master'
